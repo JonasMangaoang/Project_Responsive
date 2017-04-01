@@ -1,6 +1,8 @@
 <?php // arrays
   include 'statements.php';
   session_start();
+  $_SESSION['PASS1'] = '0';
+  $_SESSION['PASS2'] = '0';
   if(!isset($_SESSION['username'])){
     die();
   }
@@ -34,8 +36,8 @@
   <link rel="icon" href="http://localhost/Project_Responsive/images/faith.png">
   <link rel="stylesheet" type="text/css" href="http://localhost/Project_Responsive/cssfiles/adminpage.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>  
-      <style type="text/css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style type="text/css">
         .available {
             background-color: #f2f2f2;
         }
@@ -284,6 +286,7 @@
             }
             echo"</table></div> \n";
     } ?>
+
 
 <nav class="navbar navbar-default">
   <div class="container">
