@@ -24,7 +24,7 @@
         $("#result_uname").html('<img src="http://localhost/Project_Responsive/images/checking.gif"/>"');
       });
       function check_username_ajax(username){
-        $.post('http://localhost/Project_Responsive/extras/checker.php', {'username':username}, function(data){
+        $.post('../extras/username_checker.php', {'username':username}, function(data){
           $("#result_uname").html(data);
           //$("#username").html('<input id="username" background-color="#000000">');
         });
