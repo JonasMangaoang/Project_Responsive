@@ -1,0 +1,937 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sched",
+				"sched_list"
+			],
+			[
+				"room",
+				"rooms_list"
+			],
+			[
+				"over",
+				"overflow-wrap"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"row",
+				"row_input_col"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"instru",
+				"instructor"
+			],
+			[
+				"pro",
+				"proctors"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"fix",
+				"fix-height2"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"colum",
+				"column-width"
+			],
+			[
+				"arra",
+				"array\t$… = array (…)"
+			],
+			[
+				"valu",
+				"value_result"
+			],
+			[
+				"overflo",
+				"overflow-x"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"roo",
+				"rooms"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"hand",
+				"handle_user_table"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"s",
+				"schedule"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"time_",
+				"time_slot"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"user",
+				"user_table"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"time",
+				"time_slot"
+			],
+			[
+				"val",
+				"val1"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"_S",
+				"_SESSION"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"inclu",
+				"includes"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"sig",
+				"signup"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"par",
+				"password"
+			],
+			[
+				"ema",
+				"email_address"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"type",
+				"list-style-type"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"get_",
+				"get_value"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"sib",
+				"siblings_non_associative"
+			],
+			[
+				"test",
+				"test_month1"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"php",
+				"phpversion"
+			],
+			[
+				"quer",
+				"msql_db_query"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"login",
+				"logincredential"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"border-right",
+				"border-right-style"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"toggle",
+				"Toggle"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"Char",
+				"CharRefhr"
+			],
+			[
+				"about",
+				"Abouthr"
+			],
+			[
+				"texts",
+				"text-decoration-style"
+			],
+			[
+				"O",
+				"Obj"
+			],
+			[
+				"repa",
+				"no-repeat"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"outli",
+				"outline-color"
+			],
+			[
+				"colo",
+				"outline-color"
+			],
+			[
+				"size",
+				"resize"
+			],
+			[
+				"align-",
+				"align-content"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"line",
+				"stroke-linejoin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pages/table.php",
+			"settings":
+			{
+				"buffer_size": 14177,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "extras/phpchecker.php",
+			"settings":
+			{
+				"buffer_size": 843,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/admin.php",
+			"settings":
+			{
+				"buffer_size": 5793,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "fold",
+		"selected_items":
+		[
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"wrap",
+				"Snippet: Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"",
+				"Snippet: function __construct"
+			],
+			[
+				"set syntax: html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/cssfiles",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/extras",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/include",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/pages"
+	],
+	"file_history":
+	[
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/pages/edit.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/pages/table.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/pages/admin.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/pages/statements.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/include/dbconn.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/include/addtodb.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/extras/checker.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/index.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/review/sched_table.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/review/instructor_table.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/pages/cell.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/cssfiles/adminpage.css",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/downloads/pdo/dbconn.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/review/dbconn.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/include/verify.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/review/statements.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/review/table.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/review/cell.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/table.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/review/subject_table.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/review/section_table.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/review/time_table.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/review/db.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/finals_db.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/downloads/pdo/statements.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/cell.php",
+		"/C/Users/Dad/AppData/Local/Temp/Rar$DIa0.147/edit.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/Project_Responsive.zip",
+		"/C/Users/Dad/AppData/Local/Temp/Rar$DIa0.751/edit.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/sched_table.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/section_table.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/time_table.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/instructor_table.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/code_gen.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/code_gen_logic.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/sectionsforanaldes.txt",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/Project_Responsive/extras/table.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/subject_table.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/sql_code.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/scratch.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/user_table.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/final-website/pages/login.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/final-website/pages/admin.php",
+		"/H/0001 - watched/The Handmaiden (2016) BluRay 720p x264 875MB (nItRo)-XpoZ/Like My New Facebook Fan Page.txt",
+		"/H/TASMOC/tasmoc notes/.MyFavorite/zenn.txt",
+		"/C/Users/Dad/AppData/Local/Temp/Rar$DIa0.292/Read Me First.txt",
+		"/C/Fallout 3/readme.txt",
+		"/H/Movies/[ www.Torrenting.com ] - The.Vow.2012.DVDRip.XviD-SPARKS/READ this before playing the Movie.txt",
+		"/C/Users/Dad/AppData/Local/Temp/Rar$DIa0.905/How to flash OTA file.txt",
+		"/C/Users/Dad/AppData/Local/Temp/Rar$DIa0.565/How to flash OTA file.txt",
+		"/E/New folder/pages.txt",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/instructors.list",
+		"/C/Users/Dad/Desktop/Jonas/TutsPlus - PHP Fundamentals/Info.txt",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/finalsWebsite.sublime-project",
+		"/C/Users/Dad/Desktop/Jonas/PDO/readme.txt",
+		"/C/Users/Dad/Desktop/Jonas/SQL/readme.txt",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/downloads/pdo/update.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/downloads/pdo/addtodb.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/garage/CREATE_TABLE.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/create-user.sqlref",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/proj/finals_website/create-section.sqlref",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/finals_website/README.md",
+		"/C/Users/Dad/Desktop/Jonas/mywebsite2.sql",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/delete.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/userpage.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/login.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/signup.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/index.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/deleteuser.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/includes/footer.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/styles/style.css",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/includes/header.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/search.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/adduser.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/validateuser.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/updateuser.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/logout.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/includes/functions.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/myWebsite/includes/config.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/phpMyAdmin/config.inc.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/mysql/bin/my.ini",
+		"/C/Users/Dad/Desktop/Jonas/Midterm/w3.css",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/sessions/index.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/sessions/admin.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/sessions/logout.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/sessions/login.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/sessions/about.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/super-global/index.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/super-global/about.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/super-global/form.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/func/functions.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/includes/inc/functions.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/includes/index.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/loops/index.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/heredocs/index.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/includes/inc/footer.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/includes/inc/header.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/includes/about.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/includes/style.css",
+		"/C/Users/Dad/Desktop/Jonas/Sublime Text Build 3126 x64/Data/Cache/HTML/HTML.sublime-syntax.cache",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/conditionals/index.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/htdocs/sandbox/arrays/index.php",
+		"/C/Users/Dad/Desktop/Jonas/xampp/php/php.ini",
+		"/C/Users/Dad/Desktop/Jonas/Midterm/basic.html",
+		"/C/Users/Dad/Desktop/Jonas/xampp/apache/conf/httpd.conf"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pre",
+			"td_link",
+			"time_slot",
+			"rooms",
+			"center",
+			"instructor",
+			"str1",
+			"jr",
+			"michael",
+			"casabuena",
+			"casabuena, micheal m",
+			"casabuena, michael m",
+			"height='80px'",
+			"height",
+			"100px",
+			"'",
+			"\"",
+			"</select>",
+			"table.php",
+			"href",
+			"table",
+			"cell.php",
+			"is_null",
+			"is_null($value)",
+			"code",
+			"var",
+			"id",
+			"\"",
+			"instructor",
+			"section",
+			"code",
+			"subject",
+			"\"",
+			"id",
+			"day",
+			"null",
+			"subject",
+			"100px",
+			"9px",
+			"</h3>",
+			"<h3>",
+			"table",
+			"filler",
+			" AM",
+			"$key==\"",
+			"308",
+			"BSACT-4A",
+			"117",
+			"NULL",
+			"210",
+			"rm210",
+			"15px",
+			"10",
+			"cw1",
+			"rm410",
+			"401",
+			"318",
+			"301",
+			"216",
+			"211",
+			"210",
+			"id",
+			"h3",
+			"h1",
+			"p",
+			"get",
+			"id",
+			"'",
+			"\"'\";",
+			"id",
+			"\",",
+			"\\\"",
+			"pre",
+			"r_",
+			"$keys[",
+			" PM",
+			" AM",
+			"keys",
+			"==",
+			"keys",
+			"th",
+			"instructor",
+			"Instructor",
+			"instructor",
+			"code",
+			"$value_result",
+			"section",
+			" \"",
+			"(int)",
+			"day",
+			"echo \"<p>\";",
+			"$value",
+			"echo \"<p>\";",
+			"echo \"<p>\";\n                 ",
+			"# code...",
+			" ",
+			"instructor",
+			"instructor_table",
+			"'),",
+			"time_slot",
+			"time",
+			"INT",
+			"sTR",
+			"val1",
+			"r_tablename",
+			"\"2",
+			" '0',",
+			"$time",
+			"0",
+			"2",
+			"1",
+			"//",
+			"php",
+			"subject",
+			"user",
+			"finals_website_db",
+			"privilage",
+			"24px",
+			"24",
+			"time_slot",
+			"            \n",
+			"th",
+			"(NULL",
+			"),",
+			"'",
+			"rm",
+			"`",
+			"room"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"3",
+			"2",
+			"rm",
+			"NULL",
+			"December",
+			"November",
+			"October",
+			"September",
+			"August",
+			"July",
+			"June",
+			"May",
+			"December",
+			"November",
+			"October",
+			"September",
+			"August",
+			"July",
+			"June",
+			"May",
+			"April",
+			"March",
+			"February"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pages/table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 88.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "extras/phpchecker.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pages/admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5557,
+								2524
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1430.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "finals.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Dad\\Desktop\\Jonas\\xampp\\htdocs\\sandbox\\sandbox.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
